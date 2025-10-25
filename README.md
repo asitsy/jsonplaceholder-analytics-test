@@ -12,11 +12,14 @@ Oblicza i prezentuje:
 Wizualizacje i wykresy
 
 ## Jak użyto AI
-## 🧠 Jak użyto AI
 
 Podczas realizacji projektu korzystałam z narzędzi **Claude AI Sonnet** jako wsparcia w pracy nad kodem.  
-AI pomogło mi głównie w wyszukiwaniu i poprawie drobnych błędów w kodzie, i lepszym zrozumieniu działania bibliotek, uporządkowaniu struktury projektu. jeszcze w zaplanowaniu czasu pracy i podziale zadań w taki sposób, abym mogła równolegle przygotowywać się do egzaminu i pracować nad innymi projektami.
+AI pomogło mi głównie w wyszukiwaniu i poprawie drobnych błędów w kodzie i lepszym zrozumieniu działania bibliotek, uporządkowaniu struktury projektu.
 Cała logika projektu, implementacja i testowanie aplikacji zostały wykonane samodzielnie :)
 
 Anastasiia Tsyban, @asitsy on GitHub
-Link na projekt na GitHub https://github.com/asitsy/jsonplaceholder-analytics-test
+
+Link GitHub repo:
+ https://github.com/asitsy/jsonplaceholder-analytics-test
+StreamLit demo:
+ https://jsonplaceholder-analytics-test-by-atsyban.streamlit.app
