@@ -1,0 +1,5 @@
+# Required libraries for the tsybantesttask
+streamlit
+pandas
+matplotlib
+requests
